@@ -9,7 +9,6 @@ import {
   BsSave,
   BsFillBackspaceFill,
 } from "react-icons/bs";
-import {jscolor}  from "./jscolor"
 const Paint = () => {
   return (
     <div>
