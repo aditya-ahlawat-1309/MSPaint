@@ -1,4 +1,4 @@
-const myTimeout = setTimeout(myGreeting, 900);
+const myTimeout = setTimeout(myGreeting, 100);
 
 function myGreeting() {
   // when the DOM has loaded
